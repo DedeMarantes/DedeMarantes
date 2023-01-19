@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DedeMarantes
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to work on mobile development
+- 🌱 I’m currently learning Kotlin and Java
+- 💞️ I’m looking to work on Back-end Development
 - 📫 How to reach me ...
 
 <!---
