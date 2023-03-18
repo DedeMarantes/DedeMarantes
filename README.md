@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DedeMarantes
-- 🌱 I’m currently learning Kotlin and Java
-- 💞️ I’m looking to work on Back-end Development
+- 🌱 I’m currently studying about Terraform, Ansible and Kubernetes
+- 💞️ I’m looking to work on DevOps
 - 📫 How to reach me ...
 
 <!---
