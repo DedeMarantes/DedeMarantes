@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DedeMarantes
-- 🌱 I’m currently studying about Go, Terraform, Ansible and Kubernetes
-- 💞️ I’m looking to work on DevOps
+- 🌱 I’m currently studying about Go, Terraform, AWS and Kubernetes
+- 💞️ I’m looking to work on Cloud Infraesctructure and Automation
 - 📫 How to reach me ...
 
 <!---
