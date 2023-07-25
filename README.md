@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DedeMarantes
 - 🌱 I’m currently studying about Go, Terraform, AWS and Kubernetes
-- 💞️ I’m looking to work with IT infrastructure
+- 💞️ I’m looking to work with DevOps and Cloud Computing
 - 📫 How to reach me ...
 - I got the CKA certification first try. 89 score
 
