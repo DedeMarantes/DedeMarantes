@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DedeMarantes
 - 🌱 I’m currently studying about DevOps, Infra and Networking
-- 💞️ I’m looking to work with Infra and Networking
-- 📫 How to reach me ...
-- I got the CKA certification first try. 89 score
+- 💞️ I’m looking to work with Networking and Infra
 
 <!---
 DedeMarantes/DedeMarantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
