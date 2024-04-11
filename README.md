@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DedeMarantes
-- 🌱 I’m currently studying about DevOps, Infra and Networking
-- 💞️ I’m looking to work with Networking and Infra
+- Electronic Engineer looking for a work in the Embedded Systems Area
+- Work with C language 
 
 <!---
 DedeMarantes/DedeMarantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
