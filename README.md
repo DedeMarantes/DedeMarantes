@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DedeMarantes
 - Electronic Engineer looking for a work in the Embedded Systems Area
-- Work with C language and developing firmware for Microntrollers
+- Work with C language and developing firmware and software for embedded devices
 
 <!---
 DedeMarantes/DedeMarantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
